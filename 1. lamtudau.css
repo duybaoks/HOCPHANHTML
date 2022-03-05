@@ -1,0 +1,459 @@
+.nen1
+{
+    background: url(https://data.webnhiepanh.com/wp-content/uploads/2020/11/21105453/phong-canh-1.jpg);
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+    background-size: cover;
+}
+.chudedam
+{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 26px;
+    color: #26272d;
+    position: absolute;
+}
+.chudedam a{
+    text-decoration: none;
+}
+.chudegiua1
+{
+    margin-top: 280px;
+    margin-bottom: 70px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 350;
+    font-family: 'Montserrat', sans-serif;
+    line-height: initial;
+}
+.chudegiua2
+{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: initial;
+}
+.thenav
+{
+    margin-top: 50px;
+    padding: 15px;
+    text-decoration: none;
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    line-height: initial;
+    color: #2b1e22;
+}
+.thenav a
+{
+  text-decoration: none;
+  color: #b1154a;
+}
+.thenav1
+{
+    margin-top: 50px;
+    padding: 15px;
+    text-decoration: none;
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    line-height: initial;
+}
+.hieuungleanmore
+{
+    text-align: center;
+    font-style: normal;
+    text-decoration: none;
+    border: 2px;
+ 
+}
+.buttonhieuungleanmore
+{
+    margin: 30px;
+    text-decoration: none;
+    font-size: 20px;
+    border-width: 5px;
+    border: 1px solid rgb(199, 170, 192);
+    border-radius: 50px;
+    padding: 5px 25px;
+    background: rgba(0,0,0,0);
+
+
+}
+
+.buttonhieuungleanmore a{
+color: rgb(163, 113, 113);
+}
+
+  
+.nen2
+{
+    background: url(https://data.webnhiepanh.com/wp-content/uploads/2020/11/21105453/phong-canh-1.jpg);
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+    background-size: cover;
+}
+.hinhlaptop
+{
+    width: 110%;
+    height: 110%;
+    float: right;
+    padding: 50px;
+}
+
+.chude3
+{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 15px;
+    font-size: xx-large;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    line-height: initial;
+    font-weight: 300;
+}
+.noidungchude3
+{
+    padding: 15px;
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    line-height: initial;
+    width: 65%;
+    float: left;
+    text-align: justify;
+    font-weight: 300;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 0;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .chuduoiicon{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+  }
+  .chugiaithichduoiicon
+  {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    width: 85%;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+  }
+  .item2{
+      padding-top: 50px;
+  }
+  .chudeourservices
+  {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-size: 42px;
+ 
+  } 
+  .veduongvienphu{
+      text-align: center;
+      color: #f5f5f8;
+      
+  }
+  .veduongvien
+  {
+    font-weight: 0;
+    border: 2px ridge #b1154a;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    overflow: hidden;
+  }
+  .duoichuourservices
+  {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 35px;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+    width: 60%;
+    margin: auto;
+    padding: auto;
+    padding-bottom: 80px;
+  }
+  .hinhnen2
+  {
+    background-color: #f5f5f8;
+    display: inline-block;
+    position: relative;
+    background-size: cover;
+    padding-bottom: 120px;
+  }
+
+  .hinhnen3{
+    background: url(https://img4.thuthuatphanmem.vn/uploads/2020/08/27/anh-background-tim_053904266.png);  
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    position: relative;
+    background-size: cover;
+  }
+  .churesponsive
+  {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 15px   ;
+    color: whitesmoke  ;
+  }
+  .chudegiua3
+{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: initial;
+    padding-bottom: 100px;
+    color: bisque;
+}
+.grid-containerdemso {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 0;
+    padding: 10px;
+    text-align: center;
+  }
+  .counter {
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1;
+    color: #f5f5f8;
+    text-align: center;
+}
+.chuduoisodem{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: initial;
+    padding-bottom: 50px;
+    color: bisque;
+}
+.hieuungleanmore2
+{
+    text-align: center;
+    font-style: normal;
+    text-decoration: none;
+    border: 2px;
+    padding-bottom: 150px;
+}
+.hinhnen4{
+  padding-top: 80px;
+  padding-bottom: 300px;
+  background-color: #f5f5ff;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  background-size: cover;
+}
+
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 0;
+  position: relative;
+  vertical-align: middle;
+  margin: 30px;
+}
+.grid-container2 img
+{
+    display: block;
+    height: 250px;
+    width: 270px;
+    left: 0;
+}
+ 
+.overlay {
+width: 0px;
+height: 100%;
+bottom: 0;
+top: 0;
+background: rgb(227, 227, 227);
+overflow: hidden;
+transition: width .5s;
+position: absolute;
+}
+.c1:hover .overlay {
+  width: 240px;
+}
+.c2:hover .overlay {
+  width: 240px;
+}
+.c3:hover .overlay {
+  width: 240px;
+}
+.c4:hover .overlay {
+  width: 240px;
+}
+.c5:hover .overlay {
+  width: 240px;
+}
+.c6:hover .overlay {
+  width: 240px;
+}
+.c7:hover .overlay {
+  width: 240px;
+}
+.c8:hover .overlay {
+  width: 240px;
+}
+.text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: rgb(8, 8, 8);
+  font-size: 18px;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+.icon {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+
+
+.chudeSubscribe
+{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 200px;
+  font-weight: 400;
+  font-size: 42px;
+}
+.grid-container3 {
+  display: grid;
+  grid-template-columns: 30% 70% 10%;
+  grid-gap: 0;
+  position: relative;
+  vertical-align: middle;
+  margin: 30px;
+}
+
+input {
+  width: 50%;
+  border-radius: 30px;
+  border: 2px solid rgb(222, 222, 222);
+  padding: 10px;
+}
+
+
+.btn {
+  width: 100px;
+  font-size: 40px;
+  border-radius: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-green {
+  background-color: #6fc754;
+  color: #fff; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.chude4
+{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 15px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    line-height: initial;
+    font-weight: 300;
+}
+.noidungchude4
+{
+    padding: 15px;
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    line-height: initial;
+    width: 100%;
+    float: left;
+    text-align: justify;
+    font-weight: 300;
+}
+.hanglienhe
+{
+    padding: 13px;
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    line-height: initial;
+    width: 100%;
+    float: left;
+    text-align: justify;
+    font-weight: 300;
+    text-decoration: none;
+}
+.hanglienhe a
+{
+  text-decoration: none;
+}
+.hinhnen5{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  background-size: cover;
+}
+.social-links a {
+  line-height: 36px;
+  padding: 5px 15px;
+  font-size: 18px;
+  border: 1px solid;
+  border-radius: 50px;
+}
+a.twitter-bg {
+  color: #55acee;
+  border-color: #55acee; 
+}
+
+a.twitter-bg:hover {
+  background-color: #55acee;
+}
+
+a.facebook-bg {
+color: #3b5998;
+border-color: #3b5998;
+}
+.social-links a:hover {
+  color: #fff;
+}
+.duongthang {
+  border-left: thick solid #ff0000;
+}
